@@ -6,7 +6,6 @@
 * `cd projectname`
 * `composer install`
 * `php artisan key:generate`
-* Create a database and edit *.env*
 * `php artisan serve` to start the app on http://localhost:8000/
 
 ### Notes ###
