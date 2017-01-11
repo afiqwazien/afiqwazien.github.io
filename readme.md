@@ -11,4 +11,4 @@
 
 ### Notes ###
 
-*This project use SQLite database by default.
+* `This project use SQLite database by default.`
